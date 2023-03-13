@@ -1,5 +1,6 @@
 import './App.css'
-import Carousel from './components/Carousel'
+import Carousel from './components/Carousel';
+import {slides} from './data/carouselData.json'
 
 function App() {
  
@@ -7,7 +8,9 @@ function App() {
   return (
     <div className="App">
      <div>
-      <Carousel />
+
+       <Carousel data={slides}/>
+
      </div>
     </div>
   )
