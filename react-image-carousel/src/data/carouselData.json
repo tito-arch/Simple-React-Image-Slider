@@ -1,0 +1,16 @@
+{
+    "slides":[
+        {
+            "src":"https://picsum.photos/img1/picsum/600/400",
+            "alt":"An Alt"
+        },
+        {
+            "src":"https://picsum.photos/img2/picsum/600/400",
+            "alt":"Another Alt"
+        },
+        {
+            "src":"https://picsum.photos/img3/picsum/600/400",
+            "alt":"The last Alt"
+        }
+    ]
+}
